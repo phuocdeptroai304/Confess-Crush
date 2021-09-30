@@ -13,4 +13,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. iuiu nhìu 😘😘',
     messDesc: 'Vậy quay ra bật chế độ hẹn hò nào😘.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/phuocpho00'
+    messLink: 'https://www.facebook.com/phuocpho00
